@@ -6,7 +6,7 @@
 # catalog-version 3.6
 Name:		texlive-wrapfig
 Version:	3.6
-Release:	1
+Release:	2
 Summary:	Produces figures which text can flow around
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wrapfig
