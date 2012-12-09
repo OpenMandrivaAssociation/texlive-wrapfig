@@ -48,3 +48,16 @@ float package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 3.6-2
++ Revision: 757545
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 3.6-1
++ Revision: 719913
+- texlive-wrapfig
+- texlive-wrapfig
+- texlive-wrapfig
+
