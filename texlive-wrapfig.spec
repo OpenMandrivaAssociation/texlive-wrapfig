@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Produces figures which text can flow around
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/wrapfig
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/wrapfig
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wrapfig.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/wrapfig.doc.r%{version}.tar.xz
